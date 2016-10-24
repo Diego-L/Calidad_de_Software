@@ -1,11 +1,3 @@
-/*
-	Desarrollo primer parcial 
-	Sistemas Operativos y Laboratorio
-	Jorge Iván Zapata Cortínez
-	correo: jorge_101995@hotmail.com	
-	cedula : 1033655109
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #define CHARS_MAX_NAME 20
